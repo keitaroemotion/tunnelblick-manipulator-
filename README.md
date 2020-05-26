@@ -22,5 +22,5 @@ $ tbopen
 To close the VPN Gate, 
 
 ```
-$ tbopen
+$ tbclose
 ```
