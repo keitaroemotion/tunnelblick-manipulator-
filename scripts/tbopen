@@ -1,0 +1,7 @@
+#!/usr/bin/osascript
+
+tell application "Tunnelblick"
+get configurations
+disconnect all
+connect "MLE045_Mac 2" -- you can set your default config here
+end tell
